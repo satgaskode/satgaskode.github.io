@@ -1,0 +1,48 @@
+img {
+    width: 20%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+ }
+
+#container1 {
+    height: auto;
+    width: auto;
+    padding: 10px 10px;
+    background-color: rgb(109, 0, 0);
+} 
+        .tentangsaya {
+            color: rgb(255, 153, 0) ;
+            font-style: italic;
+        }
+        .p1 {
+            color: aliceblue;
+}
+
+#container2{
+    height: auto;
+    width: auto;
+    padding: 10px 10px;
+    background-color: rgb(255, 136, 0)
+}
+        .keahlian {
+            font-style: italic;
+        }
+
+#container3 {
+    height: auto;
+    width: auto;
+    padding: 10px 10px;
+    background-color: rgb(173, 240, 110);
+}
+        .pendidikan {
+            font-style: italic;
+        }
+
+#container4 {
+    height: auto;
+    width: auto;
+    padding: 10px 10px;
+    background-color: rgb(240, 110, 110);
+}
